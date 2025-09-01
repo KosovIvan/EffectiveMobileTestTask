@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\\u041C\u043E\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0422\u0435\u0441\u0442\u043E\u0432\u044B\u0435\\EffectiveMobileTest\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8CDA7C09-55BB-4FCD-AA22-73EF644B40FD}|EffectiveMobileTest\\EffectiveMobileTest.csproj|c:\\\u043C\u043E\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0442\u0435\u0441\u0442\u043E\u0432\u044B\u0435\\effectivemobiletest\\effectivemobiletest\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8CDA7C09-55BB-4FCD-AA22-73EF644B40FD}|EffectiveMobileTest\\EffectiveMobileTest.csproj|solutionrelative:effectivemobiletest\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CDA7C09-55BB-4FCD-AA22-73EF644B40FD}|EffectiveMobileTest\\EffectiveMobileTest.csproj|c:\\\u043C\u043E\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0442\u0435\u0441\u0442\u043E\u0432\u044B\u0435\\effectivemobiletest\\effectivemobiletest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CDA7C09-55BB-4FCD-AA22-73EF644B40FD}|EffectiveMobileTest\\EffectiveMobileTest.csproj|solutionrelative:effectivemobiletest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8CDA7C09-55BB-4FCD-AA22-73EF644B40FD}|EffectiveMobileTest\\EffectiveMobileTest.csproj|c:\\\u043C\u043E\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0442\u0435\u0441\u0442\u043E\u0432\u044B\u0435\\effectivemobiletest\\effectivemobiletest\\controllers\\platformcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8CDA7C09-55BB-4FCD-AA22-73EF644B40FD}|EffectiveMobileTest\\EffectiveMobileTest.csproj|solutionrelative:effectivemobiletest\\controllers\\platformcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -19,10 +27,6 @@
       "RelativeMoniker": "D:0:0:{8CDA7C09-55BB-4FCD-AA22-73EF644B40FD}|EffectiveMobileTest\\EffectiveMobileTest.csproj|solutionrelative:effectivemobiletest\\services\\locationtreeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8CDA7C09-55BB-4FCD-AA22-73EF644B40FD}|EffectiveMobileTest\\EffectiveMobileTest.csproj|c:\\\u043C\u043E\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0442\u0435\u0441\u0442\u043E\u0432\u044B\u0435\\effectivemobiletest\\effectivemobiletest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CDA7C09-55BB-4FCD-AA22-73EF644B40FD}|EffectiveMobileTest\\EffectiveMobileTest.csproj|solutionrelative:effectivemobiletest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8CDA7C09-55BB-4FCD-AA22-73EF644B40FD}|EffectiveMobileTest\\EffectiveMobileTest.csproj|c:\\\u043C\u043E\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0442\u0435\u0441\u0442\u043E\u0432\u044B\u0435\\effectivemobiletest\\effectivemobiletest\\effectivemobiletest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{8CDA7C09-55BB-4FCD-AA22-73EF644B40FD}|EffectiveMobileTest\\EffectiveMobileTest.csproj|solutionrelative:effectivemobiletest\\effectivemobiletest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
@@ -34,11 +38,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 329,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\\u041C\u043E\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0422\u0435\u0441\u0442\u043E\u0432\u044B\u0435\\EffectiveMobileTest\\EffectiveMobileTest\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "EffectiveMobileTest\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\\u041C\u043E\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0422\u0435\u0441\u0442\u043E\u0432\u044B\u0435\\EffectiveMobileTest\\EffectiveMobileTest\\Properties\\launchSettings.json",
+              "RelativeToolTip": "EffectiveMobileTest\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-01T01:52:32.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "LocationTreeService.cs",
               "DocumentMoniker": "C:\\\u041C\u043E\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0422\u0435\u0441\u0442\u043E\u0432\u044B\u0435\\EffectiveMobileTest\\EffectiveMobileTest\\Services\\LocationTreeService.cs",
               "RelativeDocumentMoniker": "EffectiveMobileTest\\Services\\LocationTreeService.cs",
@@ -46,25 +63,24 @@
               "RelativeToolTip": "EffectiveMobileTest\\Services\\LocationTreeService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-01T01:29:06.702Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-01T01:29:06.702Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\\u041C\u043E\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0422\u0435\u0441\u0442\u043E\u0432\u044B\u0435\\EffectiveMobileTest\\EffectiveMobileTest\\Program.cs",
               "RelativeDocumentMoniker": "EffectiveMobileTest\\Program.cs",
               "ToolTip": "C:\\\u041C\u043E\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0422\u0435\u0441\u0442\u043E\u0432\u044B\u0435\\EffectiveMobileTest\\EffectiveMobileTest\\Program.cs",
               "RelativeToolTip": "EffectiveMobileTest\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABBAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-30T23:27:20.383Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "PlatformController.cs",
               "DocumentMoniker": "C:\\\u041C\u043E\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0422\u0435\u0441\u0442\u043E\u0432\u044B\u0435\\EffectiveMobileTest\\EffectiveMobileTest\\Controllers\\PlatformController.cs",
               "RelativeDocumentMoniker": "EffectiveMobileTest\\Controllers\\PlatformController.cs",
@@ -77,7 +93,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "LocationTree.cs",
               "DocumentMoniker": "C:\\\u041C\u043E\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0422\u0435\u0441\u0442\u043E\u0432\u044B\u0435\\EffectiveMobileTest\\EffectiveMobileTest\\Models\\LocationTree.cs",
               "RelativeDocumentMoniker": "EffectiveMobileTest\\Models\\LocationTree.cs",
@@ -85,12 +101,11 @@
               "RelativeToolTip": "EffectiveMobileTest\\Models\\LocationTree.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-31T00:34:28.121Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-31T00:34:28.121Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "LocationNode.cs",
               "DocumentMoniker": "C:\\\u041C\u043E\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0422\u0435\u0441\u0442\u043E\u0432\u044B\u0435\\EffectiveMobileTest\\EffectiveMobileTest\\Models\\LocationNode.cs",
               "RelativeDocumentMoniker": "EffectiveMobileTest\\Models\\LocationNode.cs",
@@ -98,12 +113,11 @@
               "RelativeToolTip": "EffectiveMobileTest\\Models\\LocationNode.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-31T00:34:13.35Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-31T00:34:13.35Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "EffectiveMobileTest.csproj",
               "DocumentMoniker": "C:\\\u041C\u043E\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0422\u0435\u0441\u0442\u043E\u0432\u044B\u0435\\EffectiveMobileTest\\EffectiveMobileTest\\EffectiveMobileTest.csproj",
               "RelativeDocumentMoniker": "EffectiveMobileTest\\EffectiveMobileTest.csproj",
@@ -111,8 +125,7 @@
               "RelativeToolTip": "EffectiveMobileTest\\EffectiveMobileTest.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-31T00:29:06.355Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-31T00:29:06.355Z"
             }
           ]
         },
