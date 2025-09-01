@@ -7,7 +7,7 @@ git clone https://github.com/KosovIvan/EffectiveMobileTestTask.git
 cd EffectiveMobileTestTask
 dotnet restore
 
-3.Запустить сервис:
+3. Запустить сервис:
 dotnet run --project EffectiveMobileTest
 
 4. После запуска API будет доступно по адресу:
