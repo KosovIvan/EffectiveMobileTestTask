@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EffectiveMobileTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+12702b8b729c0b828210dd8a3a79e8fb11342ddc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+836c9647529a8dd6c74cae06a3d7ecc7201ce524")]
 [assembly: System.Reflection.AssemblyProductAttribute("EffectiveMobileTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EffectiveMobileTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

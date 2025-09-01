@@ -1,4 +1,6 @@
 
+using EffectiveMobileTest.Services;
+
 namespace EffectiveMobileTest
 {
     public class Program
@@ -12,7 +14,22 @@ namespace EffectiveMobileTest
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
 
+            builder.Services.AddCors(options =>
+            {
+                options.AddPolicy("AllowAll", policy =>
+                {
+                    policy
+                        .AllowAnyOrigin()
+                        .AllowAnyHeader()
+                        .AllowAnyMethod();
+                });
+            });
+
+            builder.Services.AddSingleton<LocationTreeService>();
+
             var app = builder.Build();
+
+            app.UseCors("AllowAll");
 
             if (app.Environment.IsDevelopment())
             {

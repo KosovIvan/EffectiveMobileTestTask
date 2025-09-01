@@ -24,7 +24,7 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "platforms",
+        "Name": "location",
         "Type": "System.String",
         "IsRequired": false
       }

@@ -42,7 +42,7 @@
         ],
         "parameters": [
           {
-            "name": "platforms",
+            "name": "location",
             "in": "query",
             "schema": {
               "type": "string"

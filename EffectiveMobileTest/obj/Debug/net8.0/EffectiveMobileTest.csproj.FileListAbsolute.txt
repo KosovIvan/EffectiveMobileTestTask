@@ -33,3 +33,4 @@ C:\Моя практика\Тестовые\EffectiveMobileTest\EffectiveMobileT
 C:\Моя практика\Тестовые\EffectiveMobileTest\EffectiveMobileTest\obj\Debug\net8.0\EffectiveMobileTest.pdb
 C:\Моя практика\Тестовые\EffectiveMobileTest\EffectiveMobileTest\obj\Debug\net8.0\EffectiveMobileTest.genruntimeconfig.cache
 C:\Моя практика\Тестовые\EffectiveMobileTest\EffectiveMobileTest\obj\Debug\net8.0\ref\EffectiveMobileTest.dll
+C:\Моя практика\Тестовые\EffectiveMobileTest\EffectiveMobileTest\obj\Debug\net8.0\EffectiveMobileTest.sourcelink.json
