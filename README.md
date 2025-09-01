@@ -3,12 +3,14 @@
 1. Склонировать репозиторий:
 git clone https://github.com/KosovIvan/EffectiveMobileTestTask.git
 
-2. Перейти в папку проекта и восстановить зависимости:
+2. Перейти в папку проекта:
 cd EffectiveMobileTestTask
+
+3. Восстановить зависимости:
 dotnet restore
 
-3. Запустить сервис:
+4. Запустить сервис:
 dotnet run --project EffectiveMobileTest
 
-4. После запуска API будет доступно по адресу:
+5. После запуска API будет доступно по адресу:
 https://localhost:7062/swagger ИЛИ http://localhost:5070/swagger
